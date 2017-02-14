@@ -1,0 +1,13 @@
+Test case #1: Generate CSV output from XML input, 
+output must be sorted by by operating system, 
+then by host_id descending.
+
+
+Test case #2: Generate CSV output from XML input, 
+filtering by site_name=Õ NY-01Õ 
+and sort by host_name ascending.
+
+
+Test case #3: Generate XML output from XML input, 
+sorted by load average, 
+then host_id descending
